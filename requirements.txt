@@ -1,0 +1,6 @@
+pymediainfo==2.0
+lxml
+beautifulsoup4
+pytz
+tzlocal
+PyGObject
